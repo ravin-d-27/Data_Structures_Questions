@@ -1,3 +1,36 @@
+/*
+Problem Statement:
+
+Given an 'm x n' matrix, return all elements of the matrix in spiral order.
+
+Write a function 'spiralOrder' that takes a 2D integer array 'matrix' and returns a list of integers in spiral order.
+
+Function Signature: 
+    public List<Integer> spiralOrder(int[][] matrix)
+
+Input:
+- An 'm x n' 2D integer array 'matrix' (1 <= m, n <= 10). The elements of the matrix will be integers in the range [-1000, 1000].
+
+Output:
+- A list of integers representing the elements in spiral order.
+
+Example:
+
+Input:
+matrix = [[1,2,3],[4,5,6],[7,8,9]]
+
+Output:
+[1,2,3,6,9,8,7,4,5]
+
+Explanation:
+- The elements are traversed in a spiral order starting from the top-left corner.
+
+Note:
+- The order of elements in the spiral order is important.
+*/
+
+
+
 import java.util.ArrayList;
 import java.util.List;
 

@@ -1,3 +1,38 @@
+/*
+Problem Statement:
+
+You are given an array of integers. Your task is to find the maximum sum of a subarray within the array.
+
+Write a program to find the maximum sum of a subarray within the array.
+
+Write a function 'findMaximumSubarraySum' that takes an integer array 'arr' and returns the maximum sum of a subarray.
+
+Function Signature: 
+    public static int findMaximumSubarraySum(int[] arr)
+
+Input:
+- An integer array 'arr' (1 <= |arr| <= 100) representing the elements of the array. The elements of 'arr' will be integers in the range [-10^9, 10^9].
+
+Output:
+- An integer representing the maximum sum of a subarray within the array.
+
+Example:
+
+Input:
+arr = [3, -2, 1, -3, 4, -1, 2, 1, -5, 4]
+
+Output:
+6
+
+Explanation:
+- The subarray with the maximum sum is [4, -1, 2, 1], which has a sum of 6.
+
+Note:
+- You may assume that there is always at least one element in the array.
+*/
+
+
+
 import java.util.*;
 
 public class Maximum_Sum_of_Subarray {

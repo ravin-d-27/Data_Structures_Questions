@@ -1,3 +1,35 @@
+/*
+Problem Statement:
+
+Given a string 's', find the length of the longest substring without repeating characters.
+
+Write a function 'lengthOfLongestSubstring' that takes a string 's' and returns the length of the longest substring without repeating characters.
+
+Function Signature: 
+    public int lengthOfLongestSubstring(String s)
+
+Input:
+- A string 's' (1 <= |s| <= 10^5) where |s| represents the length of the string. 's' consists of only printable ASCII characters.
+
+Output:
+- An integer representing the length of the longest substring without repeating characters.
+
+Example:
+
+Input:
+s = "pkkwew"
+
+Output:
+3
+
+Explanation:
+The longest substring without repeating characters is "kwe" with length 3.
+
+Note:
+- Your solution should have linear runtime complexity.
+*/
+
+
 public class Longest_Substring_Without_Repeating_Characters 
 {
     static void display(int [] arr)
