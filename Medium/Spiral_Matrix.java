@@ -12,8 +12,8 @@ public class Spiral_Matrix {
         int top = 0, bottom = m - 1, left = 0, right = n - 1;
 
         
-            // [1,2,3] top = 0, bottom = 2
-            // [4,5,6] left = 0, right = 2
+            // [1,2,3] top = 1, bottom = 1
+            // [4,5,6] left = 0, right = 1
             // [7,8,9]
 
         while (top <= bottom && left <= right) 
