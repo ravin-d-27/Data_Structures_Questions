@@ -1,3 +1,17 @@
+/*
+ * Problem Statement:
+ Implement the Counting Sort algorithm to sort an array of integers in ascending order.
+  
+Counting Sort Algorithm Steps:
+1. Find the maximum element in the input array.
+2. Initialize an array to store the frequency of each element, with size max+1.
+3. Store the frequency of each element in the frequency array.
+4. Find the cumulative sum of the frequencies in the frequency array.
+5. Define an output array with the same size as the input array.  Update the output array using the cumulative sum and input array.
+6. The output array now contains the sorted elements.
+ 
+ */
+
 public class Counting_Sort
 {
     public void countingSort(int[] arr)
