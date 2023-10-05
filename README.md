@@ -41,10 +41,10 @@
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Longest_Palindromic_String_Optimized.java">Longest Palindromic String Optimized</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Longest_Repeating_Character_Replacement.java">Longest Repeating Character Replacement</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Longest_Substring_Without_Repeating_Characters.java">Longest Substring Without Repeating Characters</a></li>
-        <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Majority_Element_II">Majority Element II</a></li>
-    <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Overlapping_Intervals.javas">Overlapping Intervals</a></li>
+        <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Majority_Element_II.java">Majority Element II</a></li>
+    <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Overlapping_Intervals.java">Overlapping Intervals</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Palindromic_Substrings.java">Palindromic Substrings</a></li>
-    <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Permutations">Permutations</a></li>
+    <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Permutations.java">Permutations</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Rotate_Image.java">Rotate Image</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Set_Zero_Matrix.java">Set Zero Matrix</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Spiral_Matrix.java">Spiral Matrix</a></li>
