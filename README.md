@@ -17,6 +17,7 @@
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Counting_Sort.java">Counting Sort</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/contrains_duplicate.java">Contains Duplicate</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Efficient_contains_dup.java">Efficient Contains Duplicate</a></li>
+    <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Finding_the_Common_Element.java">Finding the Common Element</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Longest_Common_Prefix.java">Longest Common Prefix</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Maximum_and_Minimum_element_in_an_Array.java">Maximum and Minimum Element in an Array</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Maximum_Sum_of_Subarray.java">Maximum Sum of Subarray</a></li>
