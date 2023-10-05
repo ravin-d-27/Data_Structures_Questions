@@ -44,6 +44,7 @@
         <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Majority_Element_II">Majority Element II</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Overlapping_Intervals.javas">Overlapping Intervals</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Palindromic_Substrings.java">Palindromic Substrings</a></li>
+    <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Permutations">Permutations</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Rotate_Image.java">Rotate Image</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Set_Zero_Matrix.java">Set Zero Matrix</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Spiral_Matrix.java">Spiral Matrix</a></li>
