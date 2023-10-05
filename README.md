@@ -14,6 +14,7 @@
 <h3>Easy</h3>
 <ul>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Chocolate_Box_Problem.java">Chocolate Box Problem</a></li>
+    <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Counting_Sort.java">Counting Sort</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/contrains_duplicate.java">Contains Duplicate</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Efficient_contains_dup.java">Efficient Contains Duplicate</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Longest_Common_Prefix.java">Longest Common Prefix</a></li>
@@ -27,6 +28,7 @@
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Valid_Anagrams.java">Valid Anagrams</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Valid_Palindrome.java">Valid Palindrome</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Valid_Paranthesis.java">Valid Paranthesis</a></li>
+    
 </ul>
 
 <h3>Medium</h3>
