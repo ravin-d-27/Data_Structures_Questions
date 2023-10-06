@@ -36,6 +36,7 @@
 <ul>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Best_Time_for_Stocks.java">Best Time for Stocks</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Group_Anagrams.java">Group Anagrams</a></li>
+    <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Integer_Break.java">Integer Break</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/kth_largest_number.java">Kth Largest Number</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Longest_Palindromic_String.java">Longest Palindromic String</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Longest_Palindromic_String_Optimized.java">Longest Palindromic String Optimized</a></li>
