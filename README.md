@@ -24,6 +24,7 @@
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Number_of_Good_Pairs.java">Number of Good Pairs</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Remove_Consecutive_Characters.java">Remove Consecutive Characters</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Reversing_an_Array.java">Reversing an Array</a></li>
+    <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Searching_in_an_array_where_adjacent_differ_by_at_most_k.java">Searching in an array where adjacent differ by at most k</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/search_in_rotated_sorted_array.java">Search in Rotated Sorted Array</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Sort_Array_By_Parity.java">Sort Array By Parity</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Valid_Anagrams.java">Valid Anagrams</a></li>
