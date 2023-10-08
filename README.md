@@ -45,6 +45,7 @@
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Longest_Palindromic_String_Optimized.java">Longest Palindromic String Optimized</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Longest_Repeating_Character_Replacement.java">Longest Repeating Character Replacement</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Longest_Substring_Without_Repeating_Characters.java">Longest Substring Without Repeating Characters</a></li>
+    <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Majority_Element.java">Majority Element</a></li>
         <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Majority_Element_II.java">Majority Element II</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Overlapping_Intervals.java">Overlapping Intervals</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Palindromic_Substrings.java">Palindromic Substrings</a></li>
