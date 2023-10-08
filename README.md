@@ -22,6 +22,7 @@
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Maximum_and_Minimum_element_in_an_Array.java">Maximum and Minimum Element in an Array</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Maximum_Sum_of_Subarray.java">Maximum Sum of Subarray</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Number_of_Good_Pairs.java">Number of Good Pairs</a></li>
+    <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Pair_with_a_Difference.java">Pair with a Difference</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Remove_Consecutive_Characters.java">Remove Consecutive Characters</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Reversing_an_Array.java">Reversing an Array</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Searching_in_an_array_where_adjacent_differ_by_at_most_k.java">Searching in an array where adjacent differ by at most k</a></li>
