@@ -37,6 +37,7 @@
 <h3>Medium</h3>
 <ul>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Best_Time_for_Stocks.java">Best Time for Stocks</a></li>
+    <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Count_triplets_with_sum_smaller_than_a_given_value.java">Count triplets with sum smaller than a given value</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Generate_Parentheses.java">Generate Parentheses</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Group_Anagrams.java">Group Anagrams</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Integer_Break.java">Integer Break</a></li>
