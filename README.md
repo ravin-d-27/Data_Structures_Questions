@@ -50,6 +50,7 @@
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Longest_Substring_Without_Repeating_Characters.java">Longest Substring Without Repeating Characters</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Majority_Element.java">Majority Element</a></li>
         <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Majority_Element_II.java">Majority Element II</a></li>
+        <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Merge_Two_Sorted_Arrays.java">Merge Two Sorted Arrays</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Overlapping_Intervals.java">Overlapping Intervals</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Palindromic_Substrings.java">Palindromic Substrings</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Permutations.java">Permutations</a></li>
