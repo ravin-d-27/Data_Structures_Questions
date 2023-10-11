@@ -41,6 +41,7 @@
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Count_triplets_with_sum_smaller_than_a_given_value.java">Count triplets with sum smaller than a given value</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Find_First_and_Last_Position_of_Element_in_Sorted_Array.java">Find First and Last Position of Element in Sorted Array</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Find_First_and_Last_Position_of_Element_in_Sorted_Array_OPtimized.java">Find First and Last Position of Element in Sorted Array Optimized</a></li>
+    <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Find_duplicates.java">Find Duplicates</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Generate_Parentheses.java">Generate Parentheses</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Group_Anagrams.java">Group Anagrams</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Integer_Break.java">Integer Break</a></li>
