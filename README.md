@@ -57,7 +57,8 @@
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Palindromic_Substrings.java">Palindromic Substrings</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Permutations.java">Permutations</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Radix_Sort.java">Radix Sort</a></li>
-    <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Reverse_Integer.java">Reverse_Integer</a></li>
+    <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Reversing_a_Subarray.java">Reversing a Subarray</a></li>
+    <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Reverse_Integer.java">Reverse Integer</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Rotate_Image.java">Rotate Image</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Set_Zero_Matrix.java">Set Zero Matrix</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Spiral_Matrix.java">Spiral Matrix</a></li>
