@@ -9,6 +9,8 @@
 
 <p>Note: This repository keeps on updating with new codes and problems, so stay tuned to it!</p>
 
+<p>No. of Questions Solved: 50</p>
+
 <h2>Difficulty Level</h2>
 
 <h3>Easy</h3>
@@ -56,6 +58,8 @@
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Overlapping_Intervals.java">Overlapping Intervals</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Palindromic_Substrings.java">Palindromic Substrings</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Permutations.java">Permutations</a></li>
+    <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Product_of_Array_except_itself.java">Product of Array except itself</a></li>
+    <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Product_of_Array_except_itself_optimized.java">Product of Array except itself optimized</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Radix_Sort.java">Radix Sort</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Reversing_a_Subarray.java">Reversing a Subarray</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Reverse_Integer.java">Reverse Integer</a></li>
