@@ -9,7 +9,7 @@
 
 <p>Note: This repository keeps on updating with new codes and problems, so stay tuned to it!</p>
 
-<p>No. of Questions Solved: 51</p>
+<p>No. of Questions Solved: 52</p>
 
 <h2>Difficulty Level</h2>
 
@@ -30,6 +30,7 @@
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Searching_in_an_array_where_adjacent_differ_by_at_most_k.java">Searching in an array where adjacent differ by at most k</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/search_in_rotated_sorted_array.java">Search in Rotated Sorted Array</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Sort_Array_By_Parity.java">Sort Array By Parity</a></li>
+    <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Two_Stacks_Using_An_Array.java">Two Stacks Using An Array</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Valid_Anagrams.java">Valid Anagrams</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Valid_Palindrome.java">Valid Palindrome</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Valid_Paranthesis.java">Valid Paranthesis</a></li>
