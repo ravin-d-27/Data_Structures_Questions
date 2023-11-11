@@ -9,7 +9,7 @@
 
 <p>Note: This repository keeps on updating with new codes and problems, so stay tuned to it!</p>
 
-<p>No. of Questions Solved: 52</p>
+<p>No. of Questions Solved: 53</p>
 
 <h2>Difficulty Level</h2>
 
@@ -25,6 +25,7 @@
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Maximum_Sum_of_Subarray.java">Maximum Sum of Subarray</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Number_of_Good_Pairs.java">Number of Good Pairs</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Pair_with_a_Difference.java">Pair with a Difference</a></li>
+    <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Postfix_Expression_Evaluation.java">Postfix Expression Evaluation</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Remove_Consecutive_Characters.java">Remove Consecutive Characters</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Reversing_an_Array.java">Reversing an Array</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Searching_in_an_array_where_adjacent_differ_by_at_most_k.java">Searching in an array where adjacent differ by at most k</a></li>
