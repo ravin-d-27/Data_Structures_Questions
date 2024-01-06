@@ -9,7 +9,7 @@
 
 <p>Note: This repository keeps on updating with new codes and problems, so stay tuned to it!</p>
 
-<p>No. of Questions Solved: 54</p>
+<p>No. of Questions Solved: 55</p>
 
 <h2>Difficulty Level</h2>
 
@@ -36,6 +36,8 @@
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Valid_Anagrams.java">Valid Anagrams</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Valid_Palindrome.java">Valid Palindrome</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Valid_Paranthesis.java">Valid Paranthesis</a></li>
+    <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Queue_Reversal.java">Queue Reversal</a></li>
+
     
 </ul>
 
