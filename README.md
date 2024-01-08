@@ -9,7 +9,7 @@
 
 <p>Note: This repository keeps on updating with new codes and problems, so stay tuned to it!</p>
 
-<p>No. of Questions Solved: 55</p>
+<p>No. of Questions Solved: 56</p>
 
 <h2>Difficulty Level</h2>
 
