@@ -70,11 +70,13 @@
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Reverse_Integer.java">Reverse Integer</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Rotate_Image.java">Rotate Image</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Set_Zero_Matrix.java">Set Zero Matrix</a></li>
+    <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/stack_with_operations_on_middle_element.java">Stack with operations on Middle Element</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Spiral_Matrix.java">Spiral Matrix</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/String_to_Integer.py">String to Integer</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/target_sum_of_rotated_sorted_arrays.java">Target Sum of Rotated Sorted Arrays</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Three_Sum.java">Three Sum</a></li>
 </ul>
+
 
 
 <h3>Hard</h3>
