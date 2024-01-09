@@ -9,7 +9,7 @@
 
 <p>Note: This repository keeps on updating with new codes and problems, so stay tuned to it!</p>
 
-<p>No. of Questions Solved: 56</p>
+<p>No. of Questions Solved: 57</p>
 
 <h2>Difficulty Level</h2>
 
@@ -75,6 +75,8 @@
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/String_to_Integer.py">String to Integer</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/target_sum_of_rotated_sorted_arrays.java">Target Sum of Rotated Sorted Arrays</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Three_Sum.java">Three Sum</a></li>
+    <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/infix_to_postfix.java">Infix to Postfix</a></li>
+    
 </ul>
 
 
