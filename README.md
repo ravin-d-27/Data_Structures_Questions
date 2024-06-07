@@ -9,7 +9,7 @@
 
 <p>Note: This repository keeps on updating with new codes and problems, so stay tuned to it!</p>
 
-<p>No. of Questions Solved: 51</p>
+<p>No. of Questions Solved: 57</p>
 
 <h2>Difficulty Level</h2>
 
@@ -25,14 +25,19 @@
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Maximum_Sum_of_Subarray.java">Maximum Sum of Subarray</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Number_of_Good_Pairs.java">Number of Good Pairs</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Pair_with_a_Difference.java">Pair with a Difference</a></li>
+    <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Postfix_Expression_Evaluation.java">Postfix Expression Evaluation</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Remove_Consecutive_Characters.java">Remove Consecutive Characters</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Reversing_an_Array.java">Reversing an Array</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Searching_in_an_array_where_adjacent_differ_by_at_most_k.java">Searching in an array where adjacent differ by at most k</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/search_in_rotated_sorted_array.java">Search in Rotated Sorted Array</a></li>
+    <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Stack_Using_Two_Queues.java">Stack Using Two Queues</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Sort_Array_By_Parity.java">Sort Array By Parity</a></li>
+    <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Two_Stacks_Using_An_Array.java">Two Stacks Using An Array</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Valid_Anagrams.java">Valid Anagrams</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Valid_Palindrome.java">Valid Palindrome</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Valid_Paranthesis.java">Valid Paranthesis</a></li>
+    <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Easy/Queue_Reversal.java">Queue Reversal</a></li>
+
     
 </ul>
 
@@ -65,11 +70,15 @@
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Reverse_Integer.java">Reverse Integer</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Rotate_Image.java">Rotate Image</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Set_Zero_Matrix.java">Set Zero Matrix</a></li>
+    <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/stack_with_operations_on_middle_element.java">Stack with operations on Middle Element</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Spiral_Matrix.java">Spiral Matrix</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/String_to_Integer.py">String to Integer</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/target_sum_of_rotated_sorted_arrays.java">Target Sum of Rotated Sorted Arrays</a></li>
     <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/Three_Sum.java">Three Sum</a></li>
+    <li><a href="https://github.com/ravin-d-27/Data_Structures_Questions/blob/main/Medium/infix_to_postfix.java">Infix to Postfix</a></li>
+    
 </ul>
+
 
 
 <h3>Hard</h3>
